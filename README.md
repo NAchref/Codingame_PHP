@@ -1,8 +1,6 @@
 # Exercices_PHP
 Some PHP Exercices (the type of these variables, multiple of 3 and a multiple of 5,the PGCD (largest common divisor) )
 
-<?php
-
 /**
  * Give the value of each of the variables during and at the end of the following script 
  * and check the evolution of the type of these variables:
@@ -89,7 +87,3 @@ try {
 } catch (Exception $except) {
     echo $except->getMessage();
 }
-
-
-
-?>
