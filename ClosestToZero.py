@@ -1,10 +1,10 @@
 #****************************************#
 #*                                      *#
-#* CodinGame.com Solutions by pathosDev *#
+#* CodinGame.com Solutions by NAchref *#
 #*                                      *#
 #* Puzzle: Temperatures                 *#
 #* Difficulty: Easy                     *#
-#* Date solved: 08.11.2018              *#
+#* Date solved: 19.03.2022              *#
 #*                                      *#
 #****************************************#
 
