@@ -12,6 +12,7 @@ import sys
 
 #Read inputs.
 N = int(input())
+#The split() method splits a string into a list. You can specify the separator, default separator is any whitespace
 inputs = input().split()
 
 #If there are no temperatures provided, output 0.
